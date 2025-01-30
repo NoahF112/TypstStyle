@@ -1,0 +1,5 @@
+[package]
+name = "liwei"
+version = "0.0.1"
+description = "My own typst styles"
+entrypoint = liwei.typ
